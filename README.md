@@ -1,2 +1,2 @@
-# Random Dog Generator
-Click a button to generate a random dog image or GIF. <br>Powered by https://random.dog/
+# Gerador de doguinhos
+Clicando no botão gera uma imagem aleatoria de um cachorrinho consumindo a API >> https://random.dog/
